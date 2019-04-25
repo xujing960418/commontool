@@ -319,7 +319,7 @@ public class DbfUtils {
 			case 3:filename+="3季度";break;
 			case 4:filename+="4季度";break;
 		}
-		filename+="国控城市功能区环境监测数据(杭州).dbf";
+		filename+=".dbf";
 		return filename;
 	}
 //=============================================================================================================================
